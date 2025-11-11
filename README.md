@@ -64,7 +64,10 @@ A production-grade Code Review Assistant built using ADK. It automates code revi
 Features:
 - Automated code review comments  
 - Context-aware quality and style evaluation  
-- GitHub integration for PR workflows  
+- GitHub integration for PR workflows
+
+  Deployed agent image
+<img width="1268" height="412" alt="image" src="https://github.com/user-attachments/assets/6106c6a4-b550-4b7e-b4e9-3e6a3a883228" />
 
 Source:  
 https://github.com/ayoisio/adk-code-review-assistant  
